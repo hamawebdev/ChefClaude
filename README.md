@@ -26,8 +26,8 @@ To get started with Chef Claude, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/chef-claude.git
-    cd chef-claude
+    git clone https://github.com/hamawebdev/ChefClaude
+    cd ChefClaude
     ```
 
 2. Install the dependencies:
