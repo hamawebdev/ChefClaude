@@ -1,4 +1,5 @@
-# Chef Claude
+
+# <img src="images/chef-claude-icon.png" alt="Chef Claude Icon" style="width: 1em; height: 1em; vertical-align: middle;"> Chef Claude
 
 Chef Claude is a React-based web application that helps users generate recipes based on the ingredients they have on hand. The application leverages AI models from Anthropic and Hugging Face to suggest recipes.
 
