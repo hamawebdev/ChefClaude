@@ -5,6 +5,7 @@ Chef Claude is a React-based web application that helps users generate recipes b
 
 ## Table of Contents
 
+- [Preview](#preview)
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Project Structure](#project-structure)
@@ -12,6 +13,12 @@ Chef Claude is a React-based web application that helps users generate recipes b
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Preview
+
+Here is a preview of the Chef Claude application:
+
+ <img src="chef.png" alt="Chef Claude preview" style="width: 40em; height: 35em;">
 
 ## Getting Started
 
